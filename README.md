@@ -2,4 +2,4 @@
 
 -------
 
-Sou o Luan Almeida, tenho 18 anos e moro em Sorocaba-SP; sou apaixonado por desenvolvimento web tanto no front-end quanto no back-end
+Sou o Luan Almeida, tenho 18 anos e moro em Sorocaba-SP; sou apaixonado por desenvolvimento web tanto no front-end quanto no back-end, estudo muito por conta própria e inclusive com certificados internacionais 😉
