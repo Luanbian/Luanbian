@@ -6,5 +6,5 @@ Sou o Luan Almeida, tenho 18 anos e moro em Sorocaba-SP; sou apaixonado por dese
 
 ------
 ## Skills
-.
-![html-icon](https://th.bing.com/th/id/OIP.fh1hIz9pViQY8TtnoXkVbgAAAA?pid=ImgDet&rs=1)
+
+![html-icon](https://th.bing.com/th/id/R7e1d61233f69562418f13b67a179156e?rik=k2zkyPPCx0doiQ&riu=http%3a%2f%2finfodocbib.net%2fwp-content%2fuploads%2f2012%2f07%2fhtml-icon-150x150.png&ehk=rDeWqbEUnTXWqX34XSAzR4v4IeDb4ImhL6cclDuhI0U%3d&risl=&pid=ImgRaw)
