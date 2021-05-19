@@ -7,3 +7,4 @@ Sou o Luan Almeida, tenho 18 anos e moro em Sorocaba-SP; sou apaixonado por dese
 ------
 ## Skills
 
+![skills](https://raw.githubusercontent.com/Luanbian/portfolio/main/img/skills.png)
