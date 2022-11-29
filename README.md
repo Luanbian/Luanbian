@@ -1,8 +1,8 @@
 # Olá :raised_hand:, eu sou o Luan.
 
 ### - :mortar_board: Cursando Análise e desenvolvimento de sistemas.
-### - :briefcase: Trabalhando com Javascript em uma solução para escolas durante a pandemia.
-### - :books: Estudando React.Js e Typescript.
+### - :briefcase: Trabalhando como Desenvolvedor fullstack com Node.js e Vue.js.
+### - :books: Estudando Typescript e React Native.
 
 <div> 
     <a href="https://github.com/Luanbian">
