@@ -1,7 +1,7 @@
 # Olá :raised_hand:, eu sou o Luan.
 
 ### - :mortar_board: Cursando Análise e desenvolvimento de sistemas.
-### - :briefcase: Trabalhando como Desenvolvedor fullstack com Node.js e Vue.js.
+### - :briefcase: Desenvolvedor fullstack com Node.js e Vue.js.
 ### - :books: Estudando Typescript e React Native.
 
 <div> 
