@@ -1,8 +1,8 @@
 # Olá :raised_hand:, eu sou o Luan.
 
 ### - :mortar_board: Cursando Análise e desenvolvimento de sistemas.
-### - :briefcase: Desenvolvedor fullstack com Node.js e Vue.js.
-### - :books: Estudando Typescript e React Native.
+### - :briefcase: Desenvolvedor fullstack.
+### - :books: Estudando React Native.
 
 <div> 
     <a href="https://github.com/Luanbian">
@@ -10,12 +10,11 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luan-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-Ts" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Luan-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-node" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Luan-React" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luan-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luan-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luan-java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
   
   ##
