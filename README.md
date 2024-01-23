@@ -2,7 +2,6 @@
 
 ### - :mortar_board: Cursando Análise e desenvolvimento de sistemas.
 ### - :briefcase: Desenvolvedor fullstack.
-### - :books: Estudando React Native.
 
 <div> 
     <a href="https://github.com/Luanbian">
