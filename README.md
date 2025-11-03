@@ -13,8 +13,9 @@
   <img align="center" alt="Luan-node" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Luan-React" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Luan-React-Native" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg">
-  <img align="center" alt="Luan-csharp" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />   
-  <img align="center" alt="Luan-dotnet" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />   
+  <img align="center" alt="Luan-java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Luan-spring" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="Luan-spring" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" /> 
   <img align="center" alt="Luan-postgresql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="Luan-mongo" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />          
 </div>
