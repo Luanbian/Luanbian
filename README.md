@@ -1,6 +1,7 @@
 # Olá :raised_hand:, eu sou o Luan.
 
 ### - :mortar_board: Graduado em Análise e desenvolvimento de sistemas.
+### - :mortar_board: Pós-graduado em Arquitetura de software.
 ### - :briefcase: Desenvolvedor fullstack.
 
 <div> 
